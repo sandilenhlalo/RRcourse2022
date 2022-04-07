@@ -144,3 +144,8 @@ knitr::include_graphics("BrBa.jpg")
 </tbody></table>
 
 
+## Question 4: A graph of the viewership over time.
+```{r}
+x <- read.csv("C:\\Users\\steph\\Music\\RR\\RRcourse2022\\RR_Mar_23_24/views.csv",sep = ",")
+plot(x$Views, type = "l", col = "green", lwd = 6, xlab = "Season Number", ylab = "Views in Millions in the USA")
+```
