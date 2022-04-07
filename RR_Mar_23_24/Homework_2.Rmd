@@ -1,0 +1,20 @@
+---
+title: "Homework_2"
+author: "Sandile Nhlalo-Sibanda"
+date: '2022-04-07'
+output: html_document
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##OZARK
+
+## Question 1: A brief description of the show (use _italics_ for names).
+
+After a money laundering scheme for a _Mexican_ drug cartel goes wrong, financial advisor _Marty Byrde_ proposes to make amends by offering to set up a bigger laundering operation in the Lake of the _Ozarks_ region of central _Missouri_. _Marty_ suddenly moves his family from the _Chicago_ suburb of _Naperville_ to the remote summer resort community of _Osage Beach, Missouri_. When the Byrdes arrive in _Missouri_, they become entangled with local criminals, including the _Langmore_ and _Snell_ families, and later the _Kansas City Mafia_
+
+
+
