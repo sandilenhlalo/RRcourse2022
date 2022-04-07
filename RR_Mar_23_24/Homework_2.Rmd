@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Set in _Albuquerque_, _New Mexico_, between 2008 and 2010, _Breaking Bad_ follows _Walter White_, a meek high school chemistry teacher who transforms into a ruthless player in the local methamphetamine drug trade, driven by a desire to financially provide for his family after being diagnosed with terminal lung cancer. Initially making only small batches of meth with his former student _Jesse Pinkman_ in a rolling meth lab, _Walter_ and _Jesse_ eventually expand to make larger batches of a special blue meth that is incredibly pure and creates high demand. Walter takes on the name "Heisenberg" to mask his identity. Because of his drug-related activities, _Walter_ eventually finds himself at odds with his family, the _Drug Enforcement Administration_ (DEA) through his brother-in-law _Hank Schrader_, the local gangs, and the _Mexican_ drug cartels (including their regional distributors), putting him and his family's lives at risk.
 
+
 ## Question 2: A photo with the logo or a shot from the show itself.
 ```{r pressure, echo=FALSE, fig.cap="Breaking Bad Cover", out.width = '100%'}
 
@@ -23,5 +24,123 @@ knitr::include_graphics("BrBa.jpg")
 
 ```
 
+
 ##Question 3: A summary of some basic statistics (e.g. on viewership or ratings).
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption><style data-mw-deduplicate="TemplateStyles:r1015390333">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class="sr-only">Viewership and ratings per season of <i>Breaking Bad</i></span>
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="2">Season</th>
+<th scope="col" rowspan="2">Timeslot (<a href="/wiki/Eastern_Time_Zone" title="Eastern Time Zone">ET</a>)
+</th>
+<th scope="col" rowspan="2">Episodes
+</th>
+<th scope="col" colspan="2">First aired
+</th>
+<th scope="col" colspan="2">Last aired</th>
+<th scope="col" rowspan="2">TV season</th>
+<th scope="col" rowspan="2"><abbr title="Average">Avg.</abbr> viewers<br />(millions)
+</th></tr>
+<tr>
+<th scope="col">Date
+</th>
+<th scope="col">Viewers<br />(millions)
+</th>
+<th scope="col">Date
+</th>
+<th scope="col">Viewers<br />(millions)
+</th></tr>
+<tr>
+<th scope="row" style="text-align:center;"><a href="/wiki/Breaking_Bad_(season_1)" title="Breaking Bad (season 1)">1</a>
+</th>
+<td rowspan="5">Sunday 10:00 pm</td>
+<td>7
+</td>
+<td>January&#160;20,&#160;2008<span style="display:none">&#160;(<span class="bday dtstart published updated">2008-01-20</span>)</span>
+</td>
+<td>1.41<sup id="cite_ref-thr_finale_ratings_163-1" class="reference"><a href="#cite_note-thr_finale_ratings-163">&#91;163&#93;</a></sup>
+</td>
+<td>March&#160;9,&#160;2008<span style="display:none">&#160;(<span class="bday dtstart published updated">2008-03-09</span>)</span>
+</td>
+<td>1.50<sup id="cite_ref-164" class="reference"><a href="#cite_note-164">&#91;164&#93;</a></sup></td>
+<td rowspan="1"><a href="/wiki/2007%E2%80%9308_United_States_network_television_schedule" title="2007–08 United States network television schedule">2007–08</a></td>
+<td rowspan="1">1.23<sup id="cite_ref-165" class="reference"><a href="#cite_note-165">&#91;165&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:center;"><a href="/wiki/Breaking_Bad_(season_2)" title="Breaking Bad (season 2)">2</a>
+</th>
+<td>13
+</td>
+<td>March&#160;8,&#160;2009<span style="display:none">&#160;(<span class="bday dtstart published updated">2009-03-08</span>)</span>
+</td>
+<td>1.66<sup id="cite_ref-166" class="reference"><a href="#cite_note-166">&#91;166&#93;</a></sup>
+</td>
+<td>May&#160;31,&#160;2009<span style="display:none">&#160;(<span class="bday dtstart published updated">2009-05-31</span>)</span>
+</td>
+<td>1.50<sup id="cite_ref-167" class="reference"><a href="#cite_note-167">&#91;167&#93;</a></sup></td>
+<td rowspan="1"><a href="/wiki/2008%E2%80%9309_United_States_network_television_schedule" title="2008–09 United States network television schedule">2008–09</a></td>
+<td rowspan="1">1.30<sup id="cite_ref-168" class="reference"><a href="#cite_note-168">&#91;168&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:center;"><a href="/wiki/Breaking_Bad_(season_3)" title="Breaking Bad (season 3)">3</a>
+</th>
+<td>13
+</td>
+<td>March&#160;21,&#160;2010<span style="display:none">&#160;(<span class="bday dtstart published updated">2010-03-21</span>)</span>
+</td>
+<td>1.95<sup id="cite_ref-169" class="reference"><a href="#cite_note-169">&#91;169&#93;</a></sup>
+</td>
+<td>June&#160;13,&#160;2010<span style="display:none">&#160;(<span class="bday dtstart published updated">2010-06-13</span>)</span>
+</td>
+<td>1.56<sup id="cite_ref-170" class="reference"><a href="#cite_note-170">&#91;170&#93;</a></sup></td>
+<td rowspan="1"><a href="/wiki/2009%E2%80%9310_United_States_network_television_schedule" title="2009–10 United States network television schedule">2009–10</a></td>
+<td rowspan="1">1.52<sup id="cite_ref-171" class="reference"><a href="#cite_note-171">&#91;171&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:center;"><a href="/wiki/Breaking_Bad_(season_4)" title="Breaking Bad (season 4)">4</a>
+</th>
+<td>13
+</td>
+<td>July&#160;17,&#160;2011<span style="display:none">&#160;(<span class="bday dtstart published updated">2011-07-17</span>)</span>
+</td>
+<td>2.58<sup id="cite_ref-172" class="reference"><a href="#cite_note-172">&#91;172&#93;</a></sup>
+</td>
+<td>October&#160;9,&#160;2011<span style="display:none">&#160;(<span class="bday dtstart published updated">2011-10-09</span>)</span>
+</td>
+<td>1.90<sup id="cite_ref-173" class="reference"><a href="#cite_note-173">&#91;173&#93;</a></sup></td>
+<td rowspan="1"><a href="/wiki/2010%E2%80%9311_United_States_network_television_schedule" title="2010–11 United States network television schedule">2010–11</a></td>
+<td rowspan="1">1.87<sup id="cite_ref-174" class="reference"><a href="#cite_note-174">&#91;174&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:center;"><a href="/wiki/Breaking_Bad_(season_5)" title="Breaking Bad (season 5)">5A</a>
+</th>
+<td>8
+</td>
+<td>July&#160;15,&#160;2012<span style="display:none">&#160;(<span class="bday dtstart published updated">2012-07-15</span>)</span>
+</td>
+<td>2.93<sup id="cite_ref-175" class="reference"><a href="#cite_note-175">&#91;175&#93;</a></sup>
+</td>
+<td>September&#160;2,&#160;2012<span style="display:none">&#160;(<span class="bday dtstart published updated">2012-09-02</span>)</span>
+</td>
+<td>2.78<sup id="cite_ref-176" class="reference"><a href="#cite_note-176">&#91;176&#93;</a></sup></td>
+<td rowspan="1"><a href="/wiki/2011%E2%80%9312_United_States_network_television_schedule" title="2011–12 United States network television schedule">2011–12</a></td>
+<td rowspan="2">4.32<sup id="cite_ref-177" class="reference"><a href="#cite_note-177">&#91;177&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:center;"><a href="/wiki/Breaking_Bad_(season_5)" title="Breaking Bad (season 5)">5B</a>
+</th>
+<td rowspan="1">Sunday 9:00 pm</td>
+<td>8
+</td>
+<td>August&#160;11,&#160;2013<span style="display:none">&#160;(<span class="bday dtstart published updated">2013-08-11</span>)</span>
+</td>
+<td>5.92<sup id="cite_ref-178" class="reference"><a href="#cite_note-178">&#91;178&#93;</a></sup>
+</td>
+<td>September&#160;29,&#160;2013<span style="display:none">&#160;(<span class="bday dtstart published updated">2013-09-29</span>)</span>
+</td>
+<td>10.28<sup id="cite_ref-179" class="reference"><a href="#cite_note-179">&#91;179&#93;</a></sup></td>
+<td rowspan="1"><a href="/wiki/2012%E2%80%9313_United_States_network_television_schedule" title="2012–13 United States network television schedule">2012–13</a>
+</td></tr>
+</tbody></table>
+
 
