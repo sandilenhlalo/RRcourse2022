@@ -18,6 +18,7 @@ Set in _Albuquerque_, _New Mexico_, between 2008 and 2010, _Breaking Bad_ follow
 
 
 ## Question 2: A photo with the logo or a shot from the show itself.
+
 ```{r pressure, echo=FALSE, fig.cap="Breaking Bad Cover", out.width = '100%'}
 
 knitr::include_graphics("BrBa.jpg")
@@ -26,6 +27,7 @@ knitr::include_graphics("BrBa.jpg")
 
 
 ##Question 3: A summary of some basic statistics (e.g. on viewership or ratings).
+
 <table class="wikitable plainrowheaders" style="text-align:center;">
 <caption><style data-mw-deduplicate="TemplateStyles:r1015390333">.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}</style><span class="sr-only">Viewership and ratings per season of <i>Breaking Bad</i></span>
 </caption>
@@ -145,7 +147,21 @@ knitr::include_graphics("BrBa.jpg")
 
 
 ## Question 4: A graph of the viewership over time.
-```{r}
+
+```{r, echo=FALSE}
 x <- read.csv("C:\\Users\\steph\\Music\\RR\\RRcourse2022\\RR_Mar_23_24/views.csv",sep = ",")
 plot(x$Views, type = "l", col = "green", lwd = 6, xlab = "Season Number", ylab = "Views in Millions in the USA")
 ```
+
+
+## Question 5: A graph of the episode-to-episode (or season-to-season) changes in viewership.
+
+```{r, echo=FALSE}
+x <- read.csv("C:\\Users\\steph\\Music\\RR\\RRcourse2022\\RR_Mar_23_24/views.csv",sep = ",")
+plot(x$Difference, type = "l", col = "blue", lwd = 6, xlab = "Season Number", ylab = "Views Diff in Millions in the USA")
+```
+
+
+## Question 6: A short description of the observed changes that includes inline references to numbers (e.g. the viewership decreased by `insert_calculated_number` between seasons 3 and 5).
+
+Between the 1st season and the 2nd season, we observe an increase of `r 1.66-1.41`. Between the 2nd season and the 3rd season, we observe an increase of `r 1.95-1.66`. Between the 3rd season and the 4th season, we observe an increase of `r 2.58-1.95`. Between the 4th season and the 5th season, we observe an increase of `r 2.93-2.58`. Between the 5th season and the 6th season, we observe a drastic increase of `r 5.92-2.93`.
